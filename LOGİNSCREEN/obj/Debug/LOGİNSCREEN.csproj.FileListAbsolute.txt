@@ -1,0 +1,24 @@
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\bin\Debug\LOGİNSCREEN.exe.config
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\bin\Debug\LOGİNSCREEN.exe
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\bin\Debug\LOGİNSCREEN.pdb
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.csproj.AssemblyReference.cache
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.Form1.resources
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.Form2.resources
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.Properties.Resources.resources
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.csproj.GenerateResource.cache
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.csproj.CoreCompileInputs.cache
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.exe
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.pdb
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\bin\Debug\LOGİNSCREEN.exe.config
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\bin\Debug\LOGİNSCREEN.exe
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\bin\Debug\LOGİNSCREEN.pdb
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.csproj.AssemblyReference.cache
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.Form1.resources
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.Form2.resources
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.Properties.Resources.resources
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.csproj.GenerateResource.cache
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.csproj.CoreCompileInputs.cache
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.exe
+C:\Users\ERTUĞRUL\Desktop\loginscreen\loginscreen\LOGİNSCREEN - Kopya\LOGİNSCREEN\obj\Debug\LOGİNSCREEN.pdb
